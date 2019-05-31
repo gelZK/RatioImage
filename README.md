@@ -1,2 +1,3 @@
 # RatioImage
 设置ImageView宽高比
+如何使用的是Fresco，可以将RatioImageView继承SimpleDraweeView或者自定义的DraweeView
